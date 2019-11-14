@@ -1,0 +1,4 @@
+#Thu Nov 14 13:13:38 IST 2019
+base.0=C\:\\Users\\mdabd\\Desktop\\SQLite_Application\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.0=classes.dex
+renamed.0=classes.dex
